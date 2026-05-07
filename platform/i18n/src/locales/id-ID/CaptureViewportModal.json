@@ -1,0 +1,13 @@
+{
+  "Copy to Clipboard": "Salin Gambar",
+  "File name": "Nama File",
+  "Image size": "Ukuran Gambar",
+  "Image size in pixels": "Ukuran gambar dalam piksel",
+  "Include annotations": "Sertakan Anotasi",
+  "Include warning message": "Sertakan Pesan Peringatan",
+  "Width": "Lebar",
+  "Height": "Tinggi",
+  "Save Image": "Simpan Gambar",
+  "Image copied to clipboard": "Gambar berhasil disalin ke clipboard",
+  "Failed to copy image to clipboard": "Gagal menyalin gambar ke clipboard"
+}

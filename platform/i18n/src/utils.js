@@ -23,6 +23,7 @@ const languagesMap = {
   hr: 'Croatian',
   hu: 'Hungarian',
   id: 'Indonesian',
+  'id-ID': 'Indonesian',
   it: 'Italian',
   ja: 'Japanese',
   'ja-JP': 'Japanese (Japan)',

@@ -1,0 +1,21 @@
+{
+  "AccessionNumber": "No. Aksesi",
+  "ClearFilters": "Bersihkan Filter",
+  "Description": "Deskripsi",
+  "Empty": "Kosong",
+  "Filter list to 100 studies or less to enable sorting": "Saring daftar hingga 100 pemeriksaan atau kurang untuk mengaktifkan pengurutan",
+  "Instances": "Citra",
+  "Modality": "Modalitas",
+  "MRN": "MRN",
+  "Next": "Berikutnya >",
+  "No studies available": "Tidak ada pemeriksaan yang tersedia",
+  "Number of studies": "Jumlah pemeriksaan",
+  "Page": "Halaman",
+  "PatientName": "Nama Pasien",
+  "Previous": "< Kembali",
+  "Results per page": "Hasil per halaman",
+  "Studies": "Pemeriksaan",
+  "StudyDate": "Tanggal Pemeriksaan",
+  "StudyList": "Daftar Pemeriksaan",
+  "Upload": "Unggah"
+}

@@ -1,0 +1,18 @@
+{
+  "Display Set Messages": "Pesan Set Tampilan",
+  "1": "Tidak ditemukan instans valid dalam seri.",
+  "2": "Set tampilan tidak memiliki informasi posisi.",
+  "3": "Set tampilan bukan volume 3D yang dapat direkonstruksi.",
+  "4": "Set tampilan multi-frame tidak memiliki informasi pengukuran piksel.",
+  "5": "Set tampilan multi-frame tidak memiliki informasi orientasi.",
+  "6": "Set tampilan multi-frame tidak memiliki informasi posisi.",
+  "7": "Set tampilan memiliki frame yang hilang.",
+  "8": "Set tampilan memiliki spasi yang tidak teratur.",
+  "9": "Set tampilan memiliki dimensi antar frame yang tidak konsisten.",
+  "10": "Set tampilan memiliki frame dengan jumlah komponen yang tidak konsisten.",
+  "11": "Set tampilan memiliki frame dengan orientasi yang tidak konsisten.",
+  "12": "Set tampilan memiliki informasi posisi yang tidak konsisten.",
+  "13": "Set tampilan tidak didukung.",
+  "14": "SOP Class UID {{ sopClassUid }} tidak didukung.",
+  "15": "Set tampilan tidak memiliki SOP Class UID. Silakan periksa berkas."
+}

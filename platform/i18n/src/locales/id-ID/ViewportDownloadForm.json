@@ -1,0 +1,14 @@
+{
+  "emptyFilenameError": "Nama file tidak boleh kosong.",
+  "fileType": "Tipe File",
+  "filename": "Nama File",
+  "formTitle": "Silakan tentukan dimensi, nama file, dan format output gambar yang diinginkan.",
+  "imageHeight": "Tinggi gambar (px)",
+  "imagePreview": "Pratinjau Gambar",
+  "imageWidth": "Lebar gambar (px)",
+  "keepAspectRatio": "Pertahankan rasio aspek",
+  "loadingPreview": "Memuat Pratinjau Gambar...",
+  "minHeightError": "Tinggi minimal adalah 100px.",
+  "minWidthError": "Lebar minimal adalah 100px.",
+  "showAnnotations": "Tampilkan Anotasi"
+}

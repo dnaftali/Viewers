@@ -1,0 +1,6 @@
+{
+  "Field can't be empty": "Kolom tidak boleh kosong",
+  "Hotkey is already in use": "\"{{action}}\" sudah menggunakan pintasan \"{{pressedKeys}}\".",
+  "It's not possible to define only modifier keys (ctrl, alt and shift) as a shortcut": "Tombol pengubah (ctrl, alt, dan shift) tidak dapat dijadikan sebagai pintasan tunggal",
+  "Shortcut combination is not allowed": "Kombinasi pintasan {{pressedKeys}} tidak diperbolehkan"
+}
